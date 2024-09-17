@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Master Suite">
+  <suite-files>
+  <suite-file path="C:\Users\ajits\eclipse-workspace\JavaForTesting\MavenForTesting\firstSegment.xml"></suite-file>
+  <suite-file path="C:\Users\ajits\eclipse-workspace\JavaForTesting\MavenForTesting\secondSegment.xml"></suite-file>
+  <suite-file path="C:\Users\ajits\eclipse-workspace\JavaForTesting\MavenForTesting\thirdSegment.xml"></suite-file>
+  </suite-files>
+</suite> <!-- Suite -->
